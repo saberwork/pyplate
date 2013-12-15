@@ -1,0 +1,1 @@
+This directory is the root directory for all software development activities.
