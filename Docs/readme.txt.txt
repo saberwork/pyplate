@@ -1,1 +1,1 @@
-This directory is the root directory for all software development activities.
+The c:\data\development directory is the root directory for all software development activities.
